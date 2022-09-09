@@ -1,1 +1,1 @@
-# Pr-tica2_OO
+# Pratica2_OO
